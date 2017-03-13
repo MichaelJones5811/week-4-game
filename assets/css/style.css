@@ -1,0 +1,35 @@
+
+body{
+	background-color: orange;
+}
+
+#titleLabel{
+	background-color:  yellow;
+
+}
+.panel-default{
+	padding: 20px;
+	color: green;
+	background-color:gray;
+	
+}
+.border{
+	border: 3px solid;
+}
+.box{	
+	height: 100px;
+	background: green;
+	margin-top: 10px;
+}
+.box2{
+	height: 100px;
+	background: #b3cccc;
+	margin: 10px;
+}
+#sampleWords{
+	height: 50px;
+	background: yellow;
+}
+.scoreHeader{
+	background: #f0b3ff;
+}
