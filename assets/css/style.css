@@ -10,7 +10,8 @@ body{
 .panel-default{
 	padding: 20px;
 	color: green;
-	background-color:gray;
+	/*background-color:#d9d9d9;*/
+	background-color: red;
 	
 }
 .border{
